@@ -6,7 +6,7 @@ date: 2019-06-02 03:00:00
 Olá...
 
 Bem, há dois anos que planeio escrever este post, mas tenho vindo a adiar *ad-eternum*...
-Estou a fazer este post especificamente hoje porque decidimos deixar de pagar o domínio *playfun.pt*. Se apenas querem acesso ao servidor de Teamspeak e não vos apetece ouvir histórias e desculpas, podem simplesmente usar o dictect IP *81.4.124.87* (o TS server continua aberto) e fechar a tab.
+Estou a fazer este post especificamente hoje porque decidimos deixar de pagar o domínio **playfun.pt**. Se apenas querem acesso ao servidor de Teamspeak e não vos apetece ouvir histórias e desculpas, podem simplesmente usar o dictect IP **81.4.124.87** (o TS server continua aberto) e fechar a tab.
 
 Antes de mais, queria começar por justificar, e pedir desculpa pela minha ausência.
 Nos últimos dois anos devo ter passado um total de 10 horas no TeamSpeak... E os 2 anos anteriores não foram muito melhores. Não tenho tido muito tempo, mas acima de tudo, não tenho tido vontade. Não tenho tido vontade de pegar no headset e ficar a falar online, ou jogar.
